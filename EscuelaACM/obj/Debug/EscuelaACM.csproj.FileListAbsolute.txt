@@ -1,0 +1,152 @@
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\EscuelaACM.dll.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\EscuelaACM.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\EscuelaACM.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\csc.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\csc.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\csc.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\csi.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\csi.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\csi.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.AppContext.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Console.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.IO.Compression.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Net.Http.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Net.Sockets.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.ValueTuple.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Xml.XPath.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\vbc.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\vbc.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\vbc.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\VBCSCompiler.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\EntityFramework.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\EntityFramework.SqlServer.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\Newtonsoft.Json.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\System.Net.Http.Formatting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\System.Web.Http.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\System.Web.Http.WebHost.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\EntityFramework.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\EntityFramework.SqlServer.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\Newtonsoft.Json.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\System.Net.Http.Formatting.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\System.Web.Http.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\System.Web.Http.WebHost.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\es\System.Web.Http.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.csproj.CopyComplete
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.Migrations.Migracion1.resources
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.csproj.GenerateResource.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Apis\EscuelaACM\EscuelaACM\bin\HTTPupt.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\EscuelaACM.dll.config
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\EscuelaACM.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\EscuelaACM.pdb
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\csc.exe
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\csc.exe.config
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\csc.rsp
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\csi.exe
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\csi.exe.config
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\csi.rsp
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.AppContext.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Console.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.IO.Compression.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Net.Http.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.ValueTuple.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\vbc.exe
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\vbc.exe.config
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\vbc.rsp
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\VBCSCompiler.exe
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\EntityFramework.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\EntityFramework.SqlServer.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\Newtonsoft.Json.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\System.Net.Http.Formatting.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\System.Web.Http.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\System.Web.Http.WebHost.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\EntityFramework.xml
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\EntityFramework.SqlServer.xml
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\Newtonsoft.Json.xml
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\System.Net.Http.Formatting.xml
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\System.Web.Http.xml
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\System.Web.Http.WebHost.xml
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\es\System.Web.Http.resources.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.csproj.AssemblyReference.cache
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.Migrations.Migracion1.resources
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.csproj.GenerateResource.cache
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.csproj.CopyComplete
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.dll
+C:\Users\EQUIPO-2\Documents\OBB\EscuelaACM\EscuelaACM\obj\Debug\EscuelaACM.pdb
